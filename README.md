@@ -1,8 +1,8 @@
 <img src="https://github.com/gluonsandquarks/gluonsandquarks/blob/main/gluons.png" width="100%">
 
-<h2 align="center">
-Embedded systems engineer, born to program in c, will die doing javascript, currently hating abstraction layers
-</h2>
+<h3 align="center">
+Embedded systems engineer, born to program in c, currently hating abstraction layers
+</h3>
 
 ## Skills
 ### Programming
@@ -22,7 +22,7 @@ Embedded systems engineer, born to program in c, will die doing javascript, curr
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Gitea Badge](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=fff&style=for-the-badge)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)`
+![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
 ![Subversion Badge](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=000&style=for-the-badge)
@@ -39,6 +39,3 @@ Embedded systems engineer, born to program in c, will die doing javascript, curr
 ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)
 ![Espressif Badge](https://img.shields.io/badge/Espressif-E7352C?logo=espressif&logoColor=fff&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
-
-### Metrics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gluonsandquarks)
