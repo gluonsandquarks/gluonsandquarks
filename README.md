@@ -1,7 +1,7 @@
 <img src="https://github.com/gluonsandquarks/gluonsandquarks/blob/main/gluons.png" width="100%">
 
 <h3 align="center">
-Embedded systems engineer, born to program in c, currently hating abstraction layers
+Embedded systems engineer and product developer
 </h3>
 
 ## Skills
